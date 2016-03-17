@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/iceddev/bcrypt-as-promised",
   "dependencies": {
-    "bcrypt": "^0.8.0",
+    "bcrypt": "^0.8.5",
     "when": "^3.5.2"
   },
   "devDependencies": {
